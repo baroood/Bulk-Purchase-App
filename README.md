@@ -2,8 +2,6 @@ Run Mongo daemon:
 ```
 sudo mongod
 ```
-Mongo will be running on port 27017.
-
 Run Express:
 ```
 cd backend/
